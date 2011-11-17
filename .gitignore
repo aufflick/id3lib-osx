@@ -1,0 +1,11 @@
+src/.libs/
+*.o
+*.lo
+Makefile
+*.la
+examples/id3convert
+examples/id3cp
+examples/id3info
+examples/id3tag
+examples/.libs
+src/.deps/
