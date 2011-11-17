@@ -9,3 +9,8 @@ examples/id3info
 examples/id3tag
 examples/.libs
 src/.deps/
+config.log
+config.status
+examples/.deps
+libtool
+zlib/libtool
